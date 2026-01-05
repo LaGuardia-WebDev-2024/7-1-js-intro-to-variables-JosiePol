@@ -5,7 +5,8 @@ void setup() {
 }
 
 //🎯Varaible Declarations Go Here
-var eyeSize = 8;
+var eyeSize = 70;
+
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
